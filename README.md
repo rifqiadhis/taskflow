@@ -407,13 +407,9 @@ VITE_API_URL=http://localhost:3000
    ```
 3. Deploy the `dist` folder to your hosting provider
 
-## 📄 License
-
-This project is created as a take-home test for Zodiac Engineering Team.
-
 ## 👤 Author
 
-**Rifqi Adhis**
+**Rifqi Adhi**
 - GitHub: [@rifqiadhis](https://github.com/rifqiadhis)
 
 ---
